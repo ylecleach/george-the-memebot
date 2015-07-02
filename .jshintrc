@@ -1,0 +1,23 @@
+{
+  "globals": {
+    "$" : false
+  },
+
+  "browser" : true,
+  "node" : true,
+  "devel": false,
+
+  "immed": true,
+  "indent": 2,
+  "latedef": true,
+  "maxlen": 100,
+  "newcap": true,
+  "noarg": true,
+  "nocomma": true,
+  "nonbsp": true,
+  "nonew": true,
+  "shadow": "inner",
+  "strict": true,
+  "undef": true,
+  "unused": "vars"
+}

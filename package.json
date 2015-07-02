@@ -1,0 +1,29 @@
+{
+  "name": "george-the-memebot",
+  "version": "0.1.0",
+  "description": "A chatbot that answers in memes",
+  "dependencies": {
+    "bluebird": "^2.9.27",
+    "body-parser": "~1.12.3",
+    "debug": "^2.2.0",
+    "express": "~4.12.3",
+    "request": "^2.55.0",
+    "underscore": "^1.8.3"
+  },
+  "engines": {
+    "node": "0.12.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hub.jazz.net/git/ylecleach/george-the-memebot.git"
+  },
+  "author": "IBM Corp.",
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "csv": "^0.4.5",
+    "jshint": "^2.8.0"
+  }
+}

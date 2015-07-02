@@ -1,0 +1,214 @@
+body{
+    background-color: #24313c;
+    height: 100%;
+}
+h1.askgeorge{
+    font-size: 66px;
+    line-height: 72px;
+    text-align: center;
+    font-family:'Helvetica Neue LT W04_45 Light';
+    color: #1acadb;
+    margin: 0;
+    padding-bottom: 30px;
+}
+h1.askgeorge.first{
+    padding-bottom: 100px;
+}
+h1 .stronger{
+    font-family:'HelveticaNeueW02-75Bold';
+    color: #0f649a;
+}
+.lefteye, .righteye{
+    text-align: center;
+}
+
+.eye_closed {
+  display: none;
+}
+
+.loading .eye_closed {
+  display: inherit !important;
+}
+
+.loading .eye_open {
+  display: none !important;
+}
+
+.spinner {
+  display: none;
+}
+
+.loading .spinner {
+  display: inherit !important;
+}
+
+.form-control {
+    font-family:'HelveticaNeueW02-65Medi';
+    font-size: 24px;
+    line-height: 24px;
+    height: 62px;
+    border: 1px solid #00b2ef;
+    color: #00b2ef;
+    margin-bottom: 20px;
+}
+img {
+  max-width: 100%;
+}
+img.logo_ibm{
+    margin: 0 5px;
+}
+.btn:hover, .btn:focus {
+    color: #00b2ef;
+    background-color: #ffffff;
+}
+.form-control::-webkit-input-placeholder { color: #00b2ef; }
+.form-control:-moz-placeholder { color: #00b2ef; }
+.form-control::-moz-placeholder { color: #00b2ef; }
+.form-control:-ms-input-placeholder { color: #00b2ef; }
+
+.ask-btn{
+    font-family:'HelveticaNeueW02-65Medi';
+    font-size: 24px;
+    padding: 13px;
+    background-color: #00b2ef;
+    color: #ffffff;
+}
+.navbar {
+    background: #24313c;
+    border: 0;
+    margin: 0;
+}
+.navbar .header{
+    padding-top: 10px;
+}
+.navbar-fixed-bottom{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.well{
+    text-align: center;
+}
+.well .confidence, .well .classification{
+    color: #00b2ef;
+    font-family:'HelveticaNeueW02-75Bold';
+}
+.navbar .logo{
+    vertical-align: middle;
+}
+.navbar p{
+    font-size: 12px;
+    font-family:'Helvetica Neue LT W04_45 Light';
+    margin: 0;
+}
+.navbar-fixed-bottom span{
+    font-size: 21px;
+    font-family:'Helvetica Neue LT W04_45 Light';
+}
+.navbar span.bluemix{
+    font-family:'HelveticaNeueW02-75Bold';
+}
+.navbar-fixed-bottom .deploy{
+    float: left;
+    text-align: right;
+}
+.navbar-fixed-bottom .logo{
+    text-align: center;
+}
+.navbar-fixed-bottom .fork{
+    float: right;
+    text-align: left;
+}
+.navbar-fixed-bottom .btn{
+    font-family:'Helvetica Neue LT W04_45 Light';
+    font-size: 16px;
+    padding: 9px;
+}
+.navbar-fixed-bottom .btn:hover, .navbar-fixed-bottom .btn:focus {
+    color: #ffffff;
+    background-color: transparent;
+    border: 1px solid #ffffff;
+}
+body {
+    padding-bottom: 80px;
+}
+#nav.affix {
+    position: fixed;
+    top: 0;
+    z-index: 99999;
+}
+
+
+@media(max-width:767px) {
+.eye_closed img, .eye_open img {
+  max-height: 60px;
+}
+.eye{
+    width: 50%;
+    height: 100%;
+}
+h1.askgeorge {
+    font-size: 26px;
+    line-height: 28px;
+}
+.form-control {
+    font-size: 14px;
+    height: 42px;
+}
+.well{
+    padding: 10px;
+}
+.well p{
+    margin: 0;
+}
+img.logo_ibm{
+    height: 30px;
+    margin-bottom: 5px;
+}
+.ask-btn {
+    font-size: 14px;
+    padding: 10px;
+}
+.navbar-fixed-bottom .btn {
+    font-size: 12px;
+    padding: 7px;
+}
+.navbar-fixed-bottom .logo{
+    padding-bottom: 5px;
+}
+h1.askgeorge.first {
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+.lefteye, .righteye {
+    max-height: 40px;
+}
+.navbar-fixed-bottom p {
+    font-size: 9px;
+    margin: 0;
+}
+.navbar-fixed-bottom span {
+    font-size: 14px;
+}
+.navbar-fixed-bottom {
+    padding-top: 10px;
+}
+.header{
+    padding-bottom: 0;
+}
+#nav.affix {
+    width: 100%;
+}
+}
+
+@media (max-width: 768px) and (orientation:landscape){
+.lefteye, .righteye {
+    max-height: 20px;
+}
+.eye {
+  width: 20%;
+  height: 100%;
+}
+.header{
+    padding-bottom: 0;
+}
+}

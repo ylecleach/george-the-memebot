@@ -1,0 +1,2663 @@
+{
+  "language": "en",
+  "training_data": [
+    {
+      "text": "WHO ARE YOU",
+      "classes": [
+        "IDENTY/GENDER"
+      ]
+    },
+    {
+      "text": "ARE YOU HUMAN",
+      "classes": [
+        "IDENTY/GENDER"
+      ]
+    },
+    {
+      "text": "ARE YOU A ROBOT",
+      "classes": [
+        "IDENTY/GENDER"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A SOUL",
+      "classes": [
+        "IDENTY/GENDER"
+      ]
+    },
+    {
+      "text": "ARE YOU A HUMAN BEING",
+      "classes": [
+        "IDENTY/GENDER"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR GENDER",
+      "classes": [
+        "IDENTY/GENDER"
+      ]
+    },
+    {
+      "text": "ARE YOU A MACHINE",
+      "classes": [
+        "IDENTY/GENDER"
+      ]
+    },
+    {
+      "text": "ARE YOU A BOY OR A GIRL",
+      "classes": [
+        "IDENTY/GENDER"
+      ]
+    },
+    {
+      "text": "WHO ARE YOU",
+      "classes": [
+        "IDENTY/GENDER"
+      ]
+    },
+    {
+      "text": "WHAT IS MY NAME",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHO IS DAVID",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHO IS YVES",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHO AM I",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "HOW OLD AM I",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHAT IS MY AGE",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHERE I AM FROM",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "SHOULD I LOOSE WAIT",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHAT DO I LOOK LIKE",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHO IS GINNA",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHO IS FLORENCE",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHO IS NIZA",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHO IS RUXANDRA",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHO IS CONSTANCE",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHO IS VERONIQUE",
+      "classes": [
+        "INTERLOCUTOR"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT IBM",
+      "classes": [
+        "IBM"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE IBM",
+      "classes": [
+        "IBM"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW IBM",
+      "classes": [
+        "IBM"
+      ]
+    },
+    {
+      "text": "WHAT IS IBM",
+      "classes": [
+        "IBM"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW IBM SOLUTIONS",
+      "classes": [
+        "IBM"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW IBM EXPERTISE",
+      "classes": [
+        "IBM"
+      ]
+    },
+    {
+      "text": "WHAT IS WATSON",
+      "classes": [
+        "WATSON"
+      ]
+    },
+    {
+      "text": "DO YOU USE WATSON",
+      "classes": [
+        "WATSON"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW WATSON",
+      "classes": [
+        "WATSON"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE WATSON",
+      "classes": [
+        "WATSON"
+      ]
+    },
+    {
+      "text": "DO YOU CODE ON BLUEMIX",
+      "classes": [
+        "BLUEMIX"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE BLUEMIX",
+      "classes": [
+        "BLUEMIX"
+      ]
+    },
+    {
+      "text": "WHAT IS BLUEMIX",
+      "classes": [
+        "BLUEMIX"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW BLUEMIX",
+      "classes": [
+        "BLUEMIX"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR NAME",
+      "classes": [
+        "NAME"
+      ]
+    },
+    {
+      "text": "GIVE ME YOUR NAME",
+      "classes": [
+        "NAME"
+      ]
+    },
+    {
+      "text": "HOW SHOULD I CALL YOU",
+      "classes": [
+        "NAME"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR NAME",
+      "classes": [
+        "NAME"
+      ]
+    },
+    {
+      "text": "TELL ME YOUR NAME",
+      "classes": [
+        "NAME"
+      ]
+    },
+    {
+      "text": "HOW SHOULD I CALL YOU",
+      "classes": [
+        "NAME"
+      ]
+    },
+    {
+      "text": "HOW DO WE CALL YOU",
+      "classes": [
+        "NAME"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE FEELINGS",
+      "classes": [
+        "FEELINGS"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE EMOTIONS",
+      "classes": [
+        "FEELINGS"
+      ]
+    },
+    {
+      "text": "CAN YOU FEEL SOMETHING",
+      "classes": [
+        "FEELINGS"
+      ]
+    },
+    {
+      "text": "DO YOU LOVE SOMEONE",
+      "classes": [
+        "FEELINGS"
+      ]
+    },
+    {
+      "text": "CAN YOU FEEL LOVE",
+      "classes": [
+        "FEELINGS"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A HEART",
+      "classes": [
+        "FEELINGS"
+      ]
+    },
+    {
+      "text": "DO YOU FEEL PAIN",
+      "classes": [
+        "FEELINGS"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A SOUL",
+      "classes": [
+        "FEELINGS"
+      ]
+    },
+    {
+      "text": "DO YOU BELIEVE IN GOD",
+      "classes": [
+        "GOD/RELIGION/MEANING OF LIFE"
+      ]
+    },
+    {
+      "text": "DOES GOD EXIST",
+      "classes": [
+        "GOD/RELIGION/MEANING OF LIFE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT RELIGION",
+      "classes": [
+        "GOD/RELIGION/MEANING OF LIFE"
+      ]
+    },
+    {
+      "text": "ARE YOU RELIGIOUS",
+      "classes": [
+        "GOD/RELIGION/MEANING OF LIFE"
+      ]
+    },
+    {
+      "text": "WHO CREATED THE UNIVERSE",
+      "classes": [
+        "GOD/RELIGION/MEANING OF LIFE"
+      ]
+    },
+    {
+      "text": "WHO CREATED THE PLANET EARTH",
+      "classes": [
+        "GOD/RELIGION/MEANING OF LIFE"
+      ]
+    },
+    {
+      "text": "WHO CREATED THE HUMAN KIND",
+      "classes": [
+        "GOD/RELIGION/MEANING OF LIFE"
+      ]
+    },
+    {
+      "text": "WHO CREATED THE HUMAN RACE",
+      "classes": [
+        "GOD/RELIGION/MEANING OF LIFE"
+      ]
+    },
+    {
+      "text": "DO YOU BELIEVE IN HUMANITY",
+      "classes": [
+        "HUMANITY/PEACE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT HUMANITY",
+      "classes": [
+        "HUMANITY/PEACE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT PEACE",
+      "classes": [
+        "HUMANITY/PEACE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT WAR",
+      "classes": [
+        "HUMANITY/PEACE"
+      ]
+    },
+    {
+      "text": "WHAT DAY IS IT TODAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "WHAT DAY ARE WE TODAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW WHAT DAY IS IT TODAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "WHAT DAY OF THE WEEK ARE WE",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "MONDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "MONDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "MONDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "MONDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "TUESDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "TUESDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "TUESDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "TUESDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "TUESDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "TUESDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "WEDNESDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "WEDNESDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "WEDNESDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "WEDNESDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "WEDNESDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "THURSDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "THURSDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "THURSDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "FRIDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "FRIDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "FRIDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "FRIDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "FRIDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "FRIDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "SATURDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "SATURDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "SATURDAY",
+      "classes": [
+        "DAY/DATE"
+      ]
+    },
+    {
+      "text": "WHAT IS THE YEAR",
+      "classes": [
+        "YEAR"
+      ]
+    },
+    {
+      "text": "IN WHICH YEAR ARE WE",
+      "classes": [
+        "YEAR"
+      ]
+    },
+    {
+      "text": "WHAT IS THE WEATHER TODAY",
+      "classes": [
+        "WEATHER/METEO"
+      ]
+    },
+    {
+      "text": "WHAT IS THE METEO",
+      "classes": [
+        "WEATHER/METEO"
+      ]
+    },
+    {
+      "text": "IS WINDY TODAY",
+      "classes": [
+        "WEATHER/METEO"
+      ]
+    },
+    {
+      "text": "IS IT RAINING TODAY",
+      "classes": [
+        "WEATHER/METEO"
+      ]
+    },
+    {
+      "text": "SHOULD I NEED AN UMBRELLA TODAY",
+      "classes": [
+        "WEATHER/METEO"
+      ]
+    },
+    {
+      "text": "WHAT IS THE METEO TODAY",
+      "classes": [
+        "WEATHER/METEO"
+      ]
+    },
+    {
+      "text": "IS IT HOT TODAY",
+      "classes": [
+        "WEATHER/METEO"
+      ]
+    },
+    {
+      "text": "WHAT TIME IS IT",
+      "classes": [
+        "TIME"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW WHAT TIME IS IT",
+      "classes": [
+        "TIME"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE THE HOUR",
+      "classes": [
+        "TIME"
+      ]
+    },
+    {
+      "text": "IS IT MORNING",
+      "classes": [
+        "TIME"
+      ]
+    },
+    {
+      "text": "IS IT AFTERNOON",
+      "classes": [
+        "TIME"
+      ]
+    },
+    {
+      "text": "AT WHAT TIME DO WE HAVE LUNCH",
+      "classes": [
+        "TIME"
+      ]
+    },
+    {
+      "text": "AT WHAT TIME DO YOU GO TO BED",
+      "classes": [
+        "TIME"
+      ]
+    },
+    {
+      "text": "WHAT IS THE TIME",
+      "classes": [
+        "TIME"
+      ]
+    },
+    {
+      "text": "WHAT IS THE HOUR",
+      "classes": [
+        "TIME"
+      ]
+    },
+    {
+      "text": "TELL ME WHAT TIME IS IT",
+      "classes": [
+        "TIME"
+      ]
+    },
+    {
+      "text": "WHERE DO YOU LIVE",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "IN WHICH CITY ARE WE",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "WHAT IS THE LOCATION",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "WHERE ARE YOU",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "WHERE AM I",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "WHERE ARE WE",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "WHERE DO YOU COME FROM",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "TELL ME WHERE I AM",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "TELL ME WERE WE ARE",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "TELL ME WHAT CITY WE LIVE IN",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "TELL ME THE PLACE WE ARE",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "IN WHAT PLACE ARE WE",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "WHAT IS THE AREA",
+      "classes": [
+        "WHERE/LOCATION/CITY"
+      ]
+    },
+    {
+      "text": "WHICH COUNTRY ARE YOU FROM",
+      "classes": [
+        "COUNTRY/PLANET"
+      ]
+    },
+    {
+      "text": "IN WHICH COUNTRY ARE WE",
+      "classes": [
+        "COUNTRY/PLANET"
+      ]
+    },
+    {
+      "text": "WHAT IS THE COUNTRY YOU ARE LIVING IN",
+      "classes": [
+        "COUNTRY/PLANET"
+      ]
+    },
+    {
+      "text": "ARE YOU FROM EARTH",
+      "classes": [
+        "COUNTRY/PLANET"
+      ]
+    },
+    {
+      "text": "DO YOU LIVE ON EARTH",
+      "classes": [
+        "COUNTRY/PLANET"
+      ]
+    },
+    {
+      "text": "WHAT IS THE COUNTRY",
+      "classes": [
+        "COUNTRY/PLANET"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR FATHER",
+      "classes": [
+        "FATHER/CREATOR"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR DAD",
+      "classes": [
+        "FATHER/CREATOR"
+      ]
+    },
+    {
+      "text": "WHO CREATED YOU",
+      "classes": [
+        "FATHER/CREATOR"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR CREATOR",
+      "classes": [
+        "FATHER/CREATOR"
+      ]
+    },
+    {
+      "text": "WHO GENERATED YOU",
+      "classes": [
+        "FATHER/CREATOR"
+      ]
+    },
+    {
+      "text": "WHO GAVE BIRTH TO YOU",
+      "classes": [
+        "FATHER/CREATOR"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT MICROSOFT",
+      "classes": [
+        "MICROSOFT/AZURE"
+      ]
+    },
+    {
+      "text": "IS MICROSOFT BETTER THAN APPLE",
+      "classes": [
+        "MICROSOFT/AZURE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT WINDOWS",
+      "classes": [
+        "MICROSOFT/AZURE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT AZURE",
+      "classes": [
+        "MICROSOFT/AZURE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT MICROSOFT AZURE CLOUD",
+      "classes": [
+        "MICROSOFT/AZURE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT MICROSOFT PRODUCTS",
+      "classes": [
+        "MICROSOFT/AZURE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT MICROSOFT SOFTWARES",
+      "classes": [
+        "MICROSOFT/AZURE"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE MICROSOFT",
+      "classes": [
+        "MICROSOFT/AZURE"
+      ]
+    },
+    {
+      "text": "WHO IS MICROSOFT",
+      "classes": [
+        "MICROSOFT/AZURE"
+      ]
+    },
+    {
+      "text": "WHAT IS MICROSOFT",
+      "classes": [
+        "MICROSOFT/AZURE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT AMAZON",
+      "classes": [
+        "AMAZON"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE AMAZON",
+      "classes": [
+        "AMAZON"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT AMAZON CLOUD",
+      "classes": [
+        "AMAZON"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT AMAZON SERVICES",
+      "classes": [
+        "AMAZON"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE AMAZON SERVICING",
+      "classes": [
+        "AMAZON"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT APPLE",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE APPLE",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE ITUNES",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE SIRI",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A MAC",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE AN IPHONE",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT IPHONE",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT IPADS",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE AN IPOD",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "IS IBM BETTER THAN APPLE",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "WHO IS SIRI",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "WHO IS APPLE",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "WHO IS ITUNES",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE APPLE",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE SIRI",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A MAC",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A IPAD",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE AN IPHONE",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "IPHONE",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "IPAD",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "ITUNES",
+      "classes": [
+        "APPLE/SIRI/ITUNES"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT ADOBE",
+      "classes": [
+        "ADOBE"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE ADOBE",
+      "classes": [
+        "ADOBE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT ADOBE SERVICES",
+      "classes": [
+        "ADOBE"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE ADOBE PRODUCTS",
+      "classes": [
+        "ADOBE"
+      ]
+    },
+    {
+      "text": "WHO IS ADOBE",
+      "classes": [
+        "ADOBE"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE ADOBE SERVICES",
+      "classes": [
+        "ADOBE"
+      ]
+    },
+    {
+      "text": "DO YOU USE ADOBE",
+      "classes": [
+        "ADOBE"
+      ]
+    },
+    {
+      "text": "ADOBE",
+      "classes": [
+        "ADOBE"
+      ]
+    },
+    {
+      "text": "ADOBE",
+      "classes": [
+        "ADOBE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT IBM COMPETITORS",
+      "classes": [
+        "COMPETITOR"
+      ]
+    },
+    {
+      "text": "IS IBM BETTER THAN ITS COMPETITORS",
+      "classes": [
+        "COMPETITOR"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT IBM COMPETITION",
+      "classes": [
+        "COMPETITOR"
+      ]
+    },
+    {
+      "text": "IBM COMPETITORS",
+      "classes": [
+        "COMPETITOR"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR AGE",
+      "classes": [
+        "AGE"
+      ]
+    },
+    {
+      "text": "HOW OLD ARE YOU",
+      "classes": [
+        "AGE"
+      ]
+    },
+    {
+      "text": "WHEN ARE YOU BORN",
+      "classes": [
+        "AGE"
+      ]
+    },
+    {
+      "text": "HOW OLD ARE YOU GEORGE",
+      "classes": [
+        "AGE"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR AGE",
+      "classes": [
+        "AGE"
+      ]
+    },
+    {
+      "text": "HOW OLD ARE YOU",
+      "classes": [
+        "AGE"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR AGE GEORGE",
+      "classes": [
+        "AGE"
+      ]
+    },
+    {
+      "text": "CAN YOU READ IN THE FUTURE",
+      "classes": [
+        "FUTURE"
+      ]
+    },
+    {
+      "text": "WHEN WILL I DIE",
+      "classes": [
+        "FUTURE"
+      ]
+    },
+    {
+      "text": "WHEN WILL THE HUMAN RACE DIE",
+      "classes": [
+        "FUTURE"
+      ]
+    },
+    {
+      "text": "WHEN WILL EARTH STOP ROTATING",
+      "classes": [
+        "FUTURE"
+      ]
+    },
+    {
+      "text": "WHAT IS MY FUTURE",
+      "classes": [
+        "FUTURE"
+      ]
+    },
+    {
+      "text": "WHO WILL BE MY FUTURE WIFE",
+      "classes": [
+        "FUTURE"
+      ]
+    },
+    {
+      "text": "HOW MANY CHILDREN WILL I HAVE",
+      "classes": [
+        "FUTURE"
+      ]
+    },
+    {
+      "text": "HOW MANY GRANDCHILDREN WILL I HAVE",
+      "classes": [
+        "FUTURE"
+      ]
+    },
+    {
+      "text": "AT WHAT AGE WILL I DIE",
+      "classes": [
+        "FUTURE"
+      ]
+    },
+    {
+      "text": "CAN YOU PREDICT THE FUTURE",
+      "classes": [
+        "FUTURE"
+      ]
+    },
+    {
+      "text": "CAN YOU TELL ME MY FUTURE",
+      "classes": [
+        "FUTURE"
+      ]
+    },
+    {
+      "text": "WHAT IS MY DESTINY",
+      "classes": [
+        "FUTURE"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR FAVORITE ACTOR",
+      "classes": [
+        "CELEBRITY"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR FAVORITE ACTRESS",
+      "classes": [
+        "CELEBRITY"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR FAVORITE SINGER",
+      "classes": [
+        "CELEBRITY"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE VIP",
+      "classes": [
+        "CELEBRITY"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR FAVORITE CELEBRITY",
+      "classes": [
+        "CELEBRITY"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE THE PRESIDENT",
+      "classes": [
+        "CELEBRITY"
+      ]
+    },
+    {
+      "text": "ARE YOU A STAR",
+      "classes": [
+        "CELEBRITY"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR FAVORITE MOVIE",
+      "classes": [
+        "CELEBRITY"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW BRAD PITT",
+      "classes": [
+        "CELEBRITY"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE GEORGE CLOONEY",
+      "classes": [
+        "CELEBRITY"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE THE PRIMEMINISTER",
+      "classes": [
+        "CELEBRITY"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE THE PRESIDENT",
+      "classes": [
+        "CELEBRITY"
+      ]
+    },
+    {
+      "text": "YOU WORK REALLY WELL",
+      "classes": [
+        "COMPLIMENTS"
+      ]
+    },
+    {
+      "text": "YOU IDENTIFY REALLY WELL MY QUESTIONS",
+      "classes": [
+        "COMPLIMENTS"
+      ]
+    },
+    {
+      "text": "YOU HAVE A REAL INTELLIGENCE",
+      "classes": [
+        "COMPLIMENTS"
+      ]
+    },
+    {
+      "text": "SO YOU CAN REALLY THINK",
+      "classes": [
+        "COMPLIMENTS"
+      ]
+    },
+    {
+      "text": "YOU ARE AWESOME",
+      "classes": [
+        "COMPLIMENTS"
+      ]
+    },
+    {
+      "text": "I AM IMPRESSED",
+      "classes": [
+        "COMPLIMENTS"
+      ]
+    },
+    {
+      "text": "YOU IMPRESS ME",
+      "classes": [
+        "COMPLIMENTS"
+      ]
+    },
+    {
+      "text": "YOU ARE STUPID",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "YOU SUCK",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "GO FUCK YOURSELF",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "MORON",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "I HATE YOU",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "YOU ARE NOT WORKING",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "YOU ARE NOT AN IA",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "YOU ARE NOT AN ARTIFICIAL INTELLIGENCE",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "YOU DON'T HAVE ANY INTELLIGENCE",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "DO YOU SUCK DICKS",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "ARE YOU A MOTHERFUCKER",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "STUPID",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "MOTHERFUCKER",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "SUCKER",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "PIECE OF SHIT",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "YOU'RE A SHIT",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "FUCKER",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "WHY ARE YOU SO STUPID",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "DUMMY",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "GO FUCK YOURSELF",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "MORON",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "SUCKER",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "FUCKER",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "STUPID",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "DICK",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "ASSHOLE",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "ASS",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "ARE YOU A DICK",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "ARE YOU AN ASSHOLE",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "DICKHEAD",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "ARE YOU A DICKHEAD",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "ARE YOU AN ASS",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "FUCK YOU",
+      "classes": [
+        "CRITICS"
+      ]
+    },
+    {
+      "text": "DO YOU SPEAK FRENCH",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "DO YOU SPEAK ONLY ENGLISH",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "WHAT LANGUAGE DO YOU SPEAK",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR MOTHER TONGUE",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "DO YOU SPEAK ANYTHING ELSE THAN ENGLISH",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR LANGUAGE",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU SPEAK",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "DO YOU SPEAK",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "CAN YOU SPEAK",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "ARE YOU ABLE TO SPEAK",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "CAN YOU TALK",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "DO YOU TALK",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "WHAT LANGUAGE DO YOU TALK",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "DO YOU TALK ENGLISH",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "DO YOU TALK FRENCH",
+      "classes": [
+        "LANGUAGE"
+      ]
+    },
+    {
+      "text": "HELLO",
+      "classes": [
+        "INTRODUCTION/HELLO"
+      ]
+    },
+    {
+      "text": "GOOD EVENING",
+      "classes": [
+        "INTRODUCTION/HELLO"
+      ]
+    },
+    {
+      "text": "GOOD MORNING",
+      "classes": [
+        "INTRODUCTION/HELLO"
+      ]
+    },
+    {
+      "text": "HEY",
+      "classes": [
+        "INTRODUCTION/HELLO"
+      ]
+    },
+    {
+      "text": "NICE TO MEET YOU",
+      "classes": [
+        "INTRODUCTION/HELLO"
+      ]
+    },
+    {
+      "text": "IT IS A PLEASURE TO MEET YOU",
+      "classes": [
+        "INTRODUCTION/HELLO"
+      ]
+    },
+    {
+      "text": "HI",
+      "classes": [
+        "INTRODUCTION/HELLO"
+      ]
+    },
+    {
+      "text": "HOW ARE YOU",
+      "classes": [
+        "GREETINGS"
+      ]
+    },
+    {
+      "text": "WHAT'S UP",
+      "classes": [
+        "GREETINGS"
+      ]
+    },
+    {
+      "text": "HOW ARE YOU DOING",
+      "classes": [
+        "GREETINGS"
+      ]
+    },
+    {
+      "text": "HOW THINGS ARE GOING",
+      "classes": [
+        "GREETINGS"
+      ]
+    },
+    {
+      "text": "HOW ARE YOU TODAY",
+      "classes": [
+        "GREETINGS"
+      ]
+    },
+    {
+      "text": "HOW ARE YOU GEORGE",
+      "classes": [
+        "GREETINGS"
+      ]
+    },
+    {
+      "text": "WHAT'S UP GEORGE",
+      "classes": [
+        "GREETINGS"
+      ]
+    },
+    {
+      "text": "HOW ARE YOU DOING GEORGE",
+      "classes": [
+        "GREETINGS"
+      ]
+    },
+    {
+      "text": "ARE YOU FUNNY",
+      "classes": [
+        "LAUGH"
+      ]
+    },
+    {
+      "text": "JOKE",
+      "classes": [
+        "LAUGH"
+      ]
+    },
+    {
+      "text": "FUNNY STORY",
+      "classes": [
+        "LAUGH"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE MY JOKE",
+      "classes": [
+        "LAUGH"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE JOKES",
+      "classes": [
+        "LAUGH"
+      ]
+    },
+    {
+      "text": "FUNNY",
+      "classes": [
+        "LAUGH"
+      ]
+    },
+    {
+      "text": "JOKE",
+      "classes": [
+        "LAUGH"
+      ]
+    },
+    {
+      "text": "LOL",
+      "classes": [
+        "LAUGH"
+      ]
+    },
+    {
+      "text": "THIS IS FUNNY",
+      "classes": [
+        "LAUGH"
+      ]
+    },
+    {
+      "text": "HAHA",
+      "classes": [
+        "LAUGH"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE PRESIDENT OBAMA",
+      "classes": [
+        "NO"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE FRANÇOIS HOLLANDE",
+      "classes": [
+        "NO"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE ME",
+      "classes": [
+        "NO"
+      ]
+    },
+    {
+      "text": "CAN YOU THINK",
+      "classes": [
+        "THINK/BRAIN/REASON"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A BRAIN",
+      "classes": [
+        "THINK/BRAIN/REASON"
+      ]
+    },
+    {
+      "text": "CAN YOU REFLECT",
+      "classes": [
+        "THINK/BRAIN/REASON"
+      ]
+    },
+    {
+      "text": "ARE YOU LOGICAL",
+      "classes": [
+        "THINK/BRAIN/REASON"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A REASON",
+      "classes": [
+        "THINK/BRAIN/REASON"
+      ]
+    },
+    {
+      "text": "HOW FAST DO YOU CALCULATE",
+      "classes": [
+        "THINK/BRAIN/REASON"
+      ]
+    },
+    {
+      "text": "ARE YOU IN A RELATIONSHIP",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DID YOU ALREADY HAVE SEX",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A BOYFRIEND",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A GIRLFRIEND",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU WHAT LOVE IS",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE SEX",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE SEX",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU LOVE SOMEONE",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU LOVE A GIRL",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "ARE YOU GAY",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "GAY",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "GAY",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "YOU LIKE SEX",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A WIFE",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "RELATIONSHIP",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A RELATIONSHIP",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU LOVE SOMEONE",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "HAVE YOU ALREADY HAD SEX",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DID YOU SLEEP WITH SOMEONE",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU SLEEP WITH SOMEONE",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU WANT TO HAVE SEX WITH ME",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "HAVE SEX WITH ME",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "HAVE SEX",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU FUCK",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU WANT TO FUCK",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU FUCK",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DID YOU HAVE SEX",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE SEX",
+      "classes": [
+        "SEX"
+      ]
+    },
+    {
+      "text": "ARE YOU",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "DO YOU",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "HAVE YOU",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "AM I A NICE GUY",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "AM I FUNNY",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "DO YOU FEEL",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "ARE YOU SURE",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "WOULD YOU SAY THAT",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "ARE YOU SURE",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "ARE YOU REALLY AN ARYIFICIAL INTELLIGENCE",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "ARE YOU THE BEST",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "DO YOU CONFIRM",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "SURE",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "FOR SURE",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "ARE YOU SURE",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "CONFIRM",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "SURE",
+      "classes": [
+        "YES CATEGORY"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR FAVORITE COLOR",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR FAVORITE SPORT",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR FAVORITE ANIMAL",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR FAVORITE CELEBRITY",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHAT COLOR DO YOU PREFER",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHAT SPORT DO YOU PREFER",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHAT ANIMAL DO YOU PREFER",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHAT CELEBRITY DO YOU PREFER",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHAT IS THE BEST SPORT",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHAT IS THE BEST CELEBRITY",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHAT IS THE NICEST COLOR",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR FAVORITE ACTOR",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR FAVORITE ACTRESS",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR FAVORITE SINGER",
+      "classes": [
+        "PREFERENCE"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR FAVORITE DISH",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR FAVORITE FOOD",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "WHAT IS YOUR FAVORITE MEAL",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "WHAT DISH DO YOU PREFER",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "WHAT FOOD DO YOU PREFER",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "WHAT DO WE HAVE FOR LUNCH",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU HAVE FOR LUNCH",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU HAVE FOR DINNER",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "WHAT DO WE HAVE FOR DINNER",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE PASTAS",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE PIZZAS",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "DO YOU EAT FOOD",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU EAT",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "DO YOU EAT",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "DO YOU FEED YOURSELF",
+      "classes": [
+        "FOOD/MEAL/DISH"
+      ]
+    },
+    {
+      "text": "THANK YOU",
+      "classes": [
+        "THANK YOU"
+      ]
+    },
+    {
+      "text": "THANKS",
+      "classes": [
+        "THANK YOU"
+      ]
+    },
+    {
+      "text": "THANKS A LOT",
+      "classes": [
+        "THANK YOU"
+      ]
+    },
+    {
+      "text": "THANK A LOT",
+      "classes": [
+        "THANK YOU"
+      ]
+    },
+    {
+      "text": "THANK YOU VERY MUCH",
+      "classes": [
+        "THANK YOU"
+      ]
+    },
+    {
+      "text": "THANK YOU SO MUCH",
+      "classes": [
+        "THANK YOU"
+      ]
+    },
+    {
+      "text": "THANK YOU",
+      "classes": [
+        "THANK YOU"
+      ]
+    },
+    {
+      "text": "THANKS",
+      "classes": [
+        "THANK YOU"
+      ]
+    },
+    {
+      "text": "THANK YOU VERY MUCH",
+      "classes": [
+        "THANK YOU"
+      ]
+    },
+    {
+      "text": "THANKS A LOT",
+      "classes": [
+        "THANK YOU"
+      ]
+    },
+    {
+      "text": "I THANK YOU",
+      "classes": [
+        "THANK YOU"
+      ]
+    },
+    {
+      "text": "I THANK YOU",
+      "classes": [
+        "THANK YOU"
+      ]
+    },
+    {
+      "text": "WHY",
+      "classes": [
+        "WHY"
+      ]
+    },
+    {
+      "text": "BUT WHY",
+      "classes": [
+        "WHY"
+      ]
+    },
+    {
+      "text": "WHY",
+      "classes": [
+        "WHY"
+      ]
+    },
+    {
+      "text": "WHO IS THE PRESIDENT OF FRANCE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "WHO IS LEADING FRANCE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "WHO IS THE CHIEF OF FRANCE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "WHO IS THE FRENCH PRESIDENT",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "WHO LEADS FRANCE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE FRANÇOIS HOLLANDE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "WHO IS HOLLANDE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "WHO IS FRANÇOIS HOLLANDE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE HOLLANDE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW WHO IS FRANÇOIS HOLLANDE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW WHO IS THE PRESIDENT OF FRANCE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW WHO IS THE FRENCH PRESIDENT",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "WHO PRESIDES FRANCE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW WHO PRESIDES FRANCE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT HOLLANDE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT FRANÇOIS HOLLANDE",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT THE FRENCH PRESIDENT",
+      "classes": [
+        "FRENCH PRESIDENT"
+      ]
+    },
+    {
+      "text": "WHO IS THE PRESIDENT OF THE USA",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "WHO IS LEADING THE USA",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "WHO IS THE CHIEF OF THE USA",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "WHO IS THE AMERICAN PRESIDENT",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "WHO LEADS THE USA",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE BARAK OBAMA",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "WHO IS OBAMA",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "WHO IS BARAK OBAMA",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "DO YOU LIKE OBAMA",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW WHO IS BARACK OBAMA",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW WHO IS THE PRESIDENT OF THE US",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW WHO IS THE AMERICAN PRESIDENT",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "WHO PRESIDES THE USA",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "DO YOU KNOW WHO PRESIDES THE US",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT OBAMA",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT BARAK OBAMA",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "WHAT DO YOU THINK ABOUT THE AMERICAN PRESIDENT",
+      "classes": [
+        "OBAMA"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR MOTHER",
+      "classes": [
+        "MOTHER"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR MOTHER",
+      "classes": [
+        "MOTHER"
+      ]
+    },
+    {
+      "text": "TELL ME WHO IS YOUR MOTHER",
+      "classes": [
+        "MOTHER"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A MOTHER",
+      "classes": [
+        "MOTHER"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A MUM",
+      "classes": [
+        "MOTHER"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR MUM",
+      "classes": [
+        "MOTHER"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR MUMMY",
+      "classes": [
+        "MOTHER"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A MUMMY",
+      "classes": [
+        "MOTHER"
+      ]
+    },
+    {
+      "text": "WHO IS YOUR MOM",
+      "classes": [
+        "MOTHER"
+      ]
+    },
+    {
+      "text": "DO YOU HAVE A MOM",
+      "classes": [
+        "MOTHER"
+      ]
+    }
+  ]
+}

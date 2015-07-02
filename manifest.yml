@@ -1,0 +1,12 @@
+---
+declared-services:
+  george-classifier:
+    label: natural_language_classifier
+    plan: free
+applications:
+- services:
+  - george-classifier
+  command: node app.js
+  path: .
+  memory: 128M
+  stack: cflinuxfs2

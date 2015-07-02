@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>George the memebot</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=0">
+    <link rel="stylesheet" href="css/watson-bootstrap-dark.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/9f25f16c-4168-470a-919b-523f030bd06e.css"/>
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.min.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <div class="navbar navbar-default header">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-4 lefteye">
+                  <div class="eye_closed">
+                    <img src="images/eye_left_closed.png">
+                  </div>
+                  <div class="eye_open">
+                    <img src="images/eye_left_open.png">
+                  </div>
+                </div>
+                <div class="col-xs-4 col-xs-push-4 righteye">
+                  <div class="eye_closed">
+                    <img src="images/eye_right_closed.png">
+                  </div>
+                  <div class="eye_open">
+                    <img src="images/eye_right_open.png">
+                  </div>
+                </div>
+            </div>
+            <div class="row">
+                <h1 class="askgeorge"><span class="stronger">George</span><br> the memebot</h1>
+            </div>
+            <div class="row">
+              <div id="nav-wrapper">
+                <div id="nav" class="navbar">
+                  <div class="col-lg-10 col-md-10 col-xs-8">
+                    <input placeholder="Ask me a question!" required="true" class="questionText form-control">
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-xs-4">
+                    <button class="btn btn-block ask-btn">Ask</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+    </div>
+    <div class="navbar navbar-default navbar-fixed-bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6 col-sm-push-3 col-xs-12 logo">
+            <p>powered by <img class="logo_ibm" src="images/logo_ibm.png">
+              <span>IBM <span class="bluemix">Bluemix</span></span></p>
+          </div>
+          <div class="col-sm-3 col-sm-pull-6 col-xs-6 deploy">
+            <a class="btn" href="https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/george-the-memebot.git" target="_blank">Deploy on Bluemix</a></div>
+          <div class="col-sm-3 col-xs-6 fork"><a href="https://github.com/watson-developer-cloud/george-the-memebot" class="btn">Fork me on GitHub</a></div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row error" style="display:none">
+        <div class="col-xs-12">
+          <div class="well">
+            <p class="errorMsg"></p>
+          </div>
+        </div>
+      </div>
+      <div class="row spinner">
+        <div class="col-xs-12">
+          <div class="well">
+            <p><img src="images/watson.gif"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container results">
+    </div>
+    <script type="text/template" class="template">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="well">
+            <p><%- question %></p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="well">
+            <p><a class="memeLink" href="<%- meme_url %>"><img class="memeImage" src="<%- image_url %>"
+                title="George is <%- Math.floor(100 * confidence) %>% confident that you are talking about '<%- category %>'."></a></p>
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </script>
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/underscore-min.js"></script>
+    <script src="js/sticky.js"></script>
+    <script src="js/index.js"></script>
+  </body>
+</html>
