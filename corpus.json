@@ -4,55 +4,55 @@
     {
       "text": "WHO ARE YOU",
       "classes": [
-        "IDENTY/GENDER"
+        "IDENTY-GENDER"
       ]
     },
     {
       "text": "ARE YOU HUMAN",
       "classes": [
-        "IDENTY/GENDER"
+        "IDENTY-GENDER"
       ]
     },
     {
       "text": "ARE YOU A ROBOT",
       "classes": [
-        "IDENTY/GENDER"
+        "IDENTY-GENDER"
       ]
     },
     {
       "text": "DO YOU HAVE A SOUL",
       "classes": [
-        "IDENTY/GENDER"
+        "IDENTY-GENDER"
       ]
     },
     {
       "text": "ARE YOU A HUMAN BEING",
       "classes": [
-        "IDENTY/GENDER"
+        "IDENTY-GENDER"
       ]
     },
     {
       "text": "WHAT IS YOUR GENDER",
       "classes": [
-        "IDENTY/GENDER"
+        "IDENTY-GENDER"
       ]
     },
     {
       "text": "ARE YOU A MACHINE",
       "classes": [
-        "IDENTY/GENDER"
+        "IDENTY-GENDER"
       ]
     },
     {
       "text": "ARE YOU A BOY OR A GIRL",
       "classes": [
-        "IDENTY/GENDER"
+        "IDENTY-GENDER"
       ]
     },
     {
       "text": "WHO ARE YOU",
       "classes": [
-        "IDENTY/GENDER"
+        "IDENTY-GENDER"
       ]
     },
     {
@@ -322,259 +322,259 @@
     {
       "text": "DO YOU BELIEVE IN GOD",
       "classes": [
-        "GOD/RELIGION/MEANING OF LIFE"
+        "GOD-RELIGION-MEANING-OF-LIFE"
       ]
     },
     {
       "text": "DOES GOD EXIST",
       "classes": [
-        "GOD/RELIGION/MEANING OF LIFE"
+        "GOD-RELIGION-MEANING-OF-LIFE"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT RELIGION",
       "classes": [
-        "GOD/RELIGION/MEANING OF LIFE"
+        "GOD-RELIGION-MEANING-OF-LIFE"
       ]
     },
     {
       "text": "ARE YOU RELIGIOUS",
       "classes": [
-        "GOD/RELIGION/MEANING OF LIFE"
+        "GOD-RELIGION-MEANING-OF-LIFE"
       ]
     },
     {
       "text": "WHO CREATED THE UNIVERSE",
       "classes": [
-        "GOD/RELIGION/MEANING OF LIFE"
+        "GOD-RELIGION-MEANING-OF-LIFE"
       ]
     },
     {
       "text": "WHO CREATED THE PLANET EARTH",
       "classes": [
-        "GOD/RELIGION/MEANING OF LIFE"
+        "GOD-RELIGION-MEANING-OF-LIFE"
       ]
     },
     {
       "text": "WHO CREATED THE HUMAN KIND",
       "classes": [
-        "GOD/RELIGION/MEANING OF LIFE"
+        "GOD-RELIGION-MEANING-OF-LIFE"
       ]
     },
     {
       "text": "WHO CREATED THE HUMAN RACE",
       "classes": [
-        "GOD/RELIGION/MEANING OF LIFE"
+        "GOD-RELIGION-MEANING-OF-LIFE"
       ]
     },
     {
       "text": "DO YOU BELIEVE IN HUMANITY",
       "classes": [
-        "HUMANITY/PEACE"
+        "HUMANITY-PEACE"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT HUMANITY",
       "classes": [
-        "HUMANITY/PEACE"
+        "HUMANITY-PEACE"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT PEACE",
       "classes": [
-        "HUMANITY/PEACE"
+        "HUMANITY-PEACE"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT WAR",
       "classes": [
-        "HUMANITY/PEACE"
+        "HUMANITY-PEACE"
       ]
     },
     {
       "text": "WHAT DAY IS IT TODAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "WHAT DAY ARE WE TODAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "DO YOU KNOW WHAT DAY IS IT TODAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "WHAT DAY OF THE WEEK ARE WE",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "MONDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "MONDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "MONDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "MONDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "TUESDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "TUESDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "TUESDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "TUESDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "TUESDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "TUESDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "WEDNESDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "WEDNESDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "WEDNESDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "WEDNESDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "WEDNESDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "THURSDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "THURSDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "THURSDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "FRIDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "FRIDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "FRIDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "FRIDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "FRIDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "FRIDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "SATURDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "SATURDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
       "text": "SATURDAY",
       "classes": [
-        "DAY/DATE"
+        "DAY-DATE"
       ]
     },
     {
@@ -592,43 +592,43 @@
     {
       "text": "WHAT IS THE WEATHER TODAY",
       "classes": [
-        "WEATHER/METEO"
+        "WEATHER-METEO"
       ]
     },
     {
       "text": "WHAT IS THE METEO",
       "classes": [
-        "WEATHER/METEO"
+        "WEATHER-METEO"
       ]
     },
     {
       "text": "IS WINDY TODAY",
       "classes": [
-        "WEATHER/METEO"
+        "WEATHER-METEO"
       ]
     },
     {
       "text": "IS IT RAINING TODAY",
       "classes": [
-        "WEATHER/METEO"
+        "WEATHER-METEO"
       ]
     },
     {
       "text": "SHOULD I NEED AN UMBRELLA TODAY",
       "classes": [
-        "WEATHER/METEO"
+        "WEATHER-METEO"
       ]
     },
     {
       "text": "WHAT IS THE METEO TODAY",
       "classes": [
-        "WEATHER/METEO"
+        "WEATHER-METEO"
       ]
     },
     {
       "text": "IS IT HOT TODAY",
       "classes": [
-        "WEATHER/METEO"
+        "WEATHER-METEO"
       ]
     },
     {
@@ -694,211 +694,211 @@
     {
       "text": "WHERE DO YOU LIVE",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "IN WHICH CITY ARE WE",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "WHAT IS THE LOCATION",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "WHERE ARE YOU",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "WHERE AM I",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "WHERE ARE WE",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "WHERE DO YOU COME FROM",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "TELL ME WHERE I AM",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "TELL ME WERE WE ARE",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "TELL ME WHAT CITY WE LIVE IN",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "TELL ME THE PLACE WE ARE",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "IN WHAT PLACE ARE WE",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "WHAT IS THE AREA",
       "classes": [
-        "WHERE/LOCATION/CITY"
+        "WHERE-LOCATION-CITY"
       ]
     },
     {
       "text": "WHICH COUNTRY ARE YOU FROM",
       "classes": [
-        "COUNTRY/PLANET"
+        "COUNTRY-PLANET"
       ]
     },
     {
       "text": "IN WHICH COUNTRY ARE WE",
       "classes": [
-        "COUNTRY/PLANET"
+        "COUNTRY-PLANET"
       ]
     },
     {
       "text": "WHAT IS THE COUNTRY YOU ARE LIVING IN",
       "classes": [
-        "COUNTRY/PLANET"
+        "COUNTRY-PLANET"
       ]
     },
     {
       "text": "ARE YOU FROM EARTH",
       "classes": [
-        "COUNTRY/PLANET"
+        "COUNTRY-PLANET"
       ]
     },
     {
       "text": "DO YOU LIVE ON EARTH",
       "classes": [
-        "COUNTRY/PLANET"
+        "COUNTRY-PLANET"
       ]
     },
     {
       "text": "WHAT IS THE COUNTRY",
       "classes": [
-        "COUNTRY/PLANET"
+        "COUNTRY-PLANET"
       ]
     },
     {
       "text": "WHO IS YOUR FATHER",
       "classes": [
-        "FATHER/CREATOR"
+        "FATHER-CREATOR"
       ]
     },
     {
       "text": "WHO IS YOUR DAD",
       "classes": [
-        "FATHER/CREATOR"
+        "FATHER-CREATOR"
       ]
     },
     {
       "text": "WHO CREATED YOU",
       "classes": [
-        "FATHER/CREATOR"
+        "FATHER-CREATOR"
       ]
     },
     {
       "text": "WHO IS YOUR CREATOR",
       "classes": [
-        "FATHER/CREATOR"
+        "FATHER-CREATOR"
       ]
     },
     {
       "text": "WHO GENERATED YOU",
       "classes": [
-        "FATHER/CREATOR"
+        "FATHER-CREATOR"
       ]
     },
     {
       "text": "WHO GAVE BIRTH TO YOU",
       "classes": [
-        "FATHER/CREATOR"
+        "FATHER-CREATOR"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT MICROSOFT",
       "classes": [
-        "MICROSOFT/AZURE"
+        "MICROSOFT-AZURE"
       ]
     },
     {
       "text": "IS MICROSOFT BETTER THAN APPLE",
       "classes": [
-        "MICROSOFT/AZURE"
+        "MICROSOFT-AZURE"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT WINDOWS",
       "classes": [
-        "MICROSOFT/AZURE"
+        "MICROSOFT-AZURE"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT AZURE",
       "classes": [
-        "MICROSOFT/AZURE"
+        "MICROSOFT-AZURE"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT MICROSOFT AZURE CLOUD",
       "classes": [
-        "MICROSOFT/AZURE"
+        "MICROSOFT-AZURE"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT MICROSOFT PRODUCTS",
       "classes": [
-        "MICROSOFT/AZURE"
+        "MICROSOFT-AZURE"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT MICROSOFT SOFTWARES",
       "classes": [
-        "MICROSOFT/AZURE"
+        "MICROSOFT-AZURE"
       ]
     },
     {
       "text": "DO YOU LIKE MICROSOFT",
       "classes": [
-        "MICROSOFT/AZURE"
+        "MICROSOFT-AZURE"
       ]
     },
     {
       "text": "WHO IS MICROSOFT",
       "classes": [
-        "MICROSOFT/AZURE"
+        "MICROSOFT-AZURE"
       ]
     },
     {
       "text": "WHAT IS MICROSOFT",
       "classes": [
-        "MICROSOFT/AZURE"
+        "MICROSOFT-AZURE"
       ]
     },
     {
@@ -934,127 +934,127 @@
     {
       "text": "WHAT DO YOU THINK ABOUT APPLE",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "DO YOU LIKE APPLE",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "DO YOU LIKE ITUNES",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "DO YOU LIKE SIRI",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "DO YOU HAVE A MAC",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "DO YOU HAVE AN IPHONE",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT IPHONE",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT IPADS",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "DO YOU HAVE AN IPOD",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "IS IBM BETTER THAN APPLE",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "WHO IS SIRI",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "WHO IS APPLE",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "WHO IS ITUNES",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "DO YOU LIKE APPLE",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "DO YOU LIKE SIRI",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "DO YOU HAVE A MAC",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "DO YOU HAVE A IPAD",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "DO YOU HAVE AN IPHONE",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "IPHONE",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "IPAD",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
       "text": "ITUNES",
       "classes": [
-        "APPLE/SIRI/ITUNES"
+        "APPLE-SIRI-ITUNES"
       ]
     },
     {
@@ -1654,43 +1654,43 @@
     {
       "text": "HELLO",
       "classes": [
-        "INTRODUCTION/HELLO"
+        "INTRODUCTION-HELLO"
       ]
     },
     {
       "text": "GOOD EVENING",
       "classes": [
-        "INTRODUCTION/HELLO"
+        "INTRODUCTION-HELLO"
       ]
     },
     {
       "text": "GOOD MORNING",
       "classes": [
-        "INTRODUCTION/HELLO"
+        "INTRODUCTION-HELLO"
       ]
     },
     {
       "text": "HEY",
       "classes": [
-        "INTRODUCTION/HELLO"
+        "INTRODUCTION-HELLO"
       ]
     },
     {
       "text": "NICE TO MEET YOU",
       "classes": [
-        "INTRODUCTION/HELLO"
+        "INTRODUCTION-HELLO"
       ]
     },
     {
       "text": "IT IS A PLEASURE TO MEET YOU",
       "classes": [
-        "INTRODUCTION/HELLO"
+        "INTRODUCTION-HELLO"
       ]
     },
     {
       "text": "HI",
       "classes": [
-        "INTRODUCTION/HELLO"
+        "INTRODUCTION-HELLO"
       ]
     },
     {
@@ -1822,37 +1822,37 @@
     {
       "text": "CAN YOU THINK",
       "classes": [
-        "THINK/BRAIN/REASON"
+        "THINK-BRAIN-REASON"
       ]
     },
     {
       "text": "DO YOU HAVE A BRAIN",
       "classes": [
-        "THINK/BRAIN/REASON"
+        "THINK-BRAIN-REASON"
       ]
     },
     {
       "text": "CAN YOU REFLECT",
       "classes": [
-        "THINK/BRAIN/REASON"
+        "THINK-BRAIN-REASON"
       ]
     },
     {
       "text": "ARE YOU LOGICAL",
       "classes": [
-        "THINK/BRAIN/REASON"
+        "THINK-BRAIN-REASON"
       ]
     },
     {
       "text": "DO YOU HAVE A REASON",
       "classes": [
-        "THINK/BRAIN/REASON"
+        "THINK-BRAIN-REASON"
       ]
     },
     {
       "text": "HOW FAST DO YOU CALCULATE",
       "classes": [
-        "THINK/BRAIN/REASON"
+        "THINK-BRAIN-REASON"
       ]
     },
     {
@@ -2026,109 +2026,109 @@
     {
       "text": "ARE YOU",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "DO YOU",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "HAVE YOU",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "AM I A NICE GUY",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "AM I FUNNY",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "DO YOU FEEL",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "DO YOU KNOW",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "ARE YOU SURE",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "WOULD YOU SAY THAT",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "ARE YOU SURE",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "ARE YOU REALLY AN ARYIFICIAL INTELLIGENCE",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "ARE YOU THE BEST",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "DO YOU CONFIRM",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "SURE",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "FOR SURE",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "ARE YOU SURE",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "CONFIRM",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
       "text": "SURE",
       "classes": [
-        "YES CATEGORY"
+        "YES-CATEGORY"
       ]
     },
     {
@@ -2218,163 +2218,162 @@
     {
       "text": "WHAT IS YOUR FAVORITE DISH",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "WHAT IS YOUR FAVORITE FOOD",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "WHAT IS YOUR FAVORITE MEAL",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "WHAT DISH DO YOU PREFER",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "WHAT FOOD DO YOU PREFER",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "WHAT DO WE HAVE FOR LUNCH",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "WHAT DO YOU HAVE FOR LUNCH",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "WHAT DO YOU HAVE FOR DINNER",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "WHAT DO WE HAVE FOR DINNER",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "DO YOU LIKE PASTAS",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "DO YOU LIKE PIZZAS",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "DO YOU EAT FOOD",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "WHAT DO YOU EAT",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "DO YOU EAT",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "DO YOU FEED YOURSELF",
       "classes": [
-        "FOOD/MEAL/DISH"
+        "FOOD-MEAL-DISH"
       ]
     },
     {
       "text": "THANK YOU",
       "classes": [
-        "THANK YOU"
+        "THANK-YOU"
       ]
     },
     {
       "text": "THANKS",
       "classes": [
-        "THANK YOU"
+        "THANK-YOU"
       ]
     },
     {
       "text": "THANKS A LOT",
       "classes": [
-        "THANK YOU"
+        "THANK-YOU"
       ]
     },
     {
       "text": "THANK A LOT",
       "classes": [
-        "THANK YOU"
+        "THANK-YOU"
       ]
     },
     {
       "text": "THANK YOU VERY MUCH",
       "classes": [
-        "THANK YOU"
+        "THANK-YOU"
       ]
     },
     {
       "text": "THANK YOU SO MUCH",
       "classes": [
-        "THANK YOU"
+        "THANK-YOU"
       ]
     },
     {
       "text": "THANK YOU",
       "classes": [
-        "THANK YOU"
+        "THANK-YOU"
       ]
     },
     {
       "text": "THANKS",
       "classes": [
-        "THANK YOU"
+        "THANK-YOU"
       ]
     },
     {
       "text": "THANK YOU VERY MUCH",
       "classes": [
-        "THANK YOU"
+        "THANK-YOU"
       ]
     },
     {
       "text": "THANKS A LOT",
       "classes": [
-        "THANK YOU"
+        "THANK-YOU"
       ]
     },
     {
       "text": "I THANK YOU",
       "classes": [
-        "THANK YOU"
-      ]
+        "THANK-YOU"]
     },
     {
       "text": "I THANK YOU",
       "classes": [
-        "THANK YOU"
+        "THANK-YOU"
       ]
     },
     {
@@ -2398,103 +2397,103 @@
     {
       "text": "WHO IS THE PRESIDENT OF FRANCE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "WHO IS LEADING FRANCE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "WHO IS THE CHIEF OF FRANCE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "WHO IS THE FRENCH PRESIDENT",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "WHO LEADS FRANCE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "DO YOU LIKE FRANÇOIS HOLLANDE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "WHO IS HOLLANDE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "WHO IS FRANÇOIS HOLLANDE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "DO YOU LIKE HOLLANDE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "DO YOU KNOW WHO IS FRANÇOIS HOLLANDE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "DO YOU KNOW WHO IS THE PRESIDENT OF FRANCE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "DO YOU KNOW WHO IS THE FRENCH PRESIDENT",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "WHO PRESIDES FRANCE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "DO YOU KNOW WHO PRESIDES FRANCE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT HOLLANDE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT FRANÇOIS HOLLANDE",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {
       "text": "WHAT DO YOU THINK ABOUT THE FRENCH PRESIDENT",
       "classes": [
-        "FRENCH PRESIDENT"
+        "FRENCH-PRESIDENT"
       ]
     },
     {

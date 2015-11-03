@@ -2,7 +2,7 @@
 declared-services:
   george-classifier:
     label: natural_language_classifier
-    plan: free
+    plan: standard
 applications:
 - services:
   - george-classifier
